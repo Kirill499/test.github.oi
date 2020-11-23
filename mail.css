@@ -1,0 +1,17 @@
+p
+{
+	background-color: rgb(147, 211, 27);
+}
+.body
+{
+	text-align: center;
+}
+#test
+{
+	text-align: right;
+}#footer
+{
+    clear: both; /* Отменяем действие float */
+    padding: 5px; /* Отступы вокруг текста */
+    background: #D71920; /* Цвет фона подвала */
+}
